@@ -293,6 +293,11 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+/* about */
+
+	body {
+		text-align: center;
+	}
 
 /* Form */
 

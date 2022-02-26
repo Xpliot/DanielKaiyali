@@ -29,3 +29,9 @@
 		opacity: 1;
 		margin: 4rem 0 0 0;
 	}
+
+/* about */
+
+	#about article {
+	text-align: center;
+	}
